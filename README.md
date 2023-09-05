@@ -1,1 +1,2 @@
 # complete-ecommerce-store-with-payments-integrated-in-react-native-expo
+This application has various modules and components in order to make a fully working e-commerce store along with Stripe payments integrated. Also, short videos or reel module is included. The application can be used by buyers and sellers both in order to upload products and buy products as well. The application has a feature to be included in a spin wheel to win a specific product. Another component can be used to display and advertise businesses.
